@@ -85,7 +85,6 @@ netflix-content-analysis/
 │   └── netflix_titles.csv
 │
 ├── netflix_analysis.py
-├── requirements.txt
 └── README.md
 ```
 
@@ -94,7 +93,6 @@ netflix-content-analysis/
 ## ▶️ How to Run
 
 ```bash
-pip install -r requirements.txt
 python netflix_analysis.py
 ```
 
